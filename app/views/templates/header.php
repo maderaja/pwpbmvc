@@ -25,6 +25,9 @@
             <a class="nav-link" href="<?= BASE_URL ?>/user">User</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="<?= BASE_URL ?>/blog">Blog</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="<?= BASE_URL ?>/user/profile">Profile</a>
           </li>
         </ul>
